@@ -1,3 +1,5 @@
 # Created by newuser for 5.9
 
 eval "$(starship init zsh)"
+
+export PATH="$PATH:/opt/nvim/"
